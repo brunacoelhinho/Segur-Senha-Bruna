@@ -88,8 +88,15 @@ body {
 }
 
 
+
 @media screen and (min-width: 768px){
-    .parametro-coluna-senha
+    .parametro-colun__senha{
+        flex-direction: row;
+
+
+
+
+    }
 }
 
 
