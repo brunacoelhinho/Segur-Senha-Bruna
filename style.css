@@ -90,7 +90,7 @@ body {
 
 
 @media screen and (min-width: 768px){
-    .parametro-colun__senha{
+    .parametro-coluna__senha{
         flex-direction: row;
 
 
